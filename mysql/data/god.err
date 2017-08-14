@@ -1,0 +1,81 @@
+150805 12:42:23  InnoDB: Started; log sequence number 0 21112449
+150805 12:42:23 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150909 15:30:51  InnoDB: Started; log sequence number 0 21112449
+150909 15:30:51 [Note] D:\CMSService\mysql\bin\mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150910 10:18:54  InnoDB: Started; log sequence number 0 21112449
+150910 10:18:54 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150911  9:25:51  InnoDB: Started; log sequence number 0 21112449
+150911  9:25:52 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150916 15:03:52  InnoDB: Started; log sequence number 0 21112449
+150916 15:03:52 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150925  8:45:55  InnoDB: Started; log sequence number 0 21112449
+150925  8:45:55 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150925  9:40:41  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+150925  9:40:46  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+150925  9:41:28  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+150925  9:43:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+150925  9:43:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+150925  9:44:06  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+150925  9:44:41  InnoDB: Started; log sequence number 0 21112449
+150925  9:44:41 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150926  9:38:46  InnoDB: Started; log sequence number 0 21112449
+150926  9:38:46 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150928 10:29:17  InnoDB: Started; log sequence number 0 21112449
+150928 10:29:17 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+150929 16:17:32  InnoDB: Started; log sequence number 0 21112449
+150929 16:17:32 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151009 14:28:07  InnoDB: Started; log sequence number 0 21112449
+151009 14:28:07 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151013 10:47:11  InnoDB: Started; log sequence number 0 21112449
+151013 10:47:11 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151014 14:04:26  InnoDB: Started; log sequence number 0 21112449
+151014 14:04:26 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151015  9:18:51  InnoDB: Started; log sequence number 0 21112449
+151015  9:18:51 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151016  8:59:11  InnoDB: Started; log sequence number 0 21112449
+151016  8:59:11 [Note] mysqld: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)

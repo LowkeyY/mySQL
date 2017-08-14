@@ -1,0 +1,179 @@
+100811 15:25:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100811 15:25:15  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5729784.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5729784
+100811 15:25:15  InnoDB: Started; log sequence number 0 5729784
+100811 15:25:15 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 15:28:21 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 15:28:21  InnoDB: Starting shutdown...
+100811 15:28:23  InnoDB: Shutdown completed; log sequence number 0 5729784
+100811 15:28:23 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100811 15:33:17  InnoDB: Started; log sequence number 0 5729784
+100811 15:33:17 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 15:59:04 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 15:59:04  InnoDB: Starting shutdown...
+100811 15:59:07  InnoDB: Shutdown completed; log sequence number 0 5730292
+100811 15:59:07 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100811 16:23:23  InnoDB: Started; log sequence number 0 5730292
+100811 16:23:23 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 16:29:31 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 16:29:33 [Warning] C:\INSTAN~1\MySql\bin\mysqld.exe: Forcing close of thread 3  user: 'root'
+
+100811 16:29:33 [Warning] C:\INSTAN~1\MySql\bin\mysqld.exe: Forcing close of thread 2  user: 'root'
+
+100811 16:29:33  InnoDB: Starting shutdown...
+100811 16:29:36  InnoDB: Shutdown completed; log sequence number 0 5730577
+100811 16:29:36 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100811 16:30:58  InnoDB: Started; log sequence number 0 5730577
+100811 16:30:58 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 17:23:28 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 17:23:30  InnoDB: Starting shutdown...
+100811 17:23:32  InnoDB: Shutdown completed; log sequence number 0 8005245
+100811 17:23:32 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100812  8:36:40  InnoDB: Started; log sequence number 0 8005245
+100812  8:36:40 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100812  8:36:41 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100812  8:36:41  InnoDB: Starting shutdown...
+100812  8:36:44  InnoDB: Shutdown completed; log sequence number 0 8005245
+100812  8:36:44 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100812  8:36:46  InnoDB: Started; log sequence number 0 8005245
+100812  8:36:46 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100812  8:41:53 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100812  8:41:53  InnoDB: Starting shutdown...
+100812  8:41:56  InnoDB: Shutdown completed; log sequence number 0 8007364
+100812  8:41:56 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:00:49  InnoDB: Started; log sequence number 0 8007364
+110615  9:00:49 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:12:33 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:12:35 [Warning] D:\INSTAN~2\MySql\bin\mysqld.exe: Forcing close of thread 2  user: 'root'
+
+110615  9:12:35 [Warning] D:\INSTAN~2\MySql\bin\mysqld.exe: Forcing close of thread 1  user: 'root'
+
+110615  9:12:35  InnoDB: Starting shutdown...
+110615  9:12:39  InnoDB: Shutdown completed; log sequence number 0 9437045
+110615  9:12:39 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:12:40  InnoDB: Started; log sequence number 0 9437045
+110615  9:12:40 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:18:43 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:18:45 [Warning] D:\INSTAN~2\MySql\bin\mysqld.exe: Forcing close of thread 1  user: 'root'
+
+110615  9:18:45  InnoDB: Starting shutdown...
+110615  9:18:46  InnoDB: Shutdown completed; log sequence number 0 9437045
+110615  9:18:46 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:20:21  InnoDB: Started; log sequence number 0 9437045
+110615  9:20:21 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:21:36 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:21:36  InnoDB: Starting shutdown...
+110615  9:21:39  InnoDB: Shutdown completed; log sequence number 0 9437045
+110615  9:21:39 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:23:44  InnoDB: Started; log sequence number 0 9437045
+110615  9:23:44 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:25:58 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:25:58  InnoDB: Starting shutdown...
+110615  9:26:00  InnoDB: Shutdown completed; log sequence number 0 9437045
+110615  9:26:00 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:28:34  InnoDB: Started; log sequence number 0 9437045
+110615  9:28:34 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:29:43 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:29:43  InnoDB: Starting shutdown...
+110615  9:29:44  InnoDB: Shutdown completed; log sequence number 0 9437045
+110615  9:29:44 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:31:45  InnoDB: Started; log sequence number 0 9437045
+110615  9:31:45 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:51:42 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:51:44 [Warning] D:\INSTAN~2\MySql\bin\mysqld.exe: Forcing close of thread 2  user: 'root'
+
+110615  9:51:44 [Warning] D:\INSTAN~2\MySql\bin\mysqld.exe: Forcing close of thread 1  user: 'root'
+
+110615  9:51:44  InnoDB: Starting shutdown...
+110615  9:51:47  InnoDB: Shutdown completed; log sequence number 0 17143794
+110615  9:51:47 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:52:50  InnoDB: Started; log sequence number 0 17143794
+110615  9:52:50 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:54:44 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:54:44  InnoDB: Starting shutdown...
+110615  9:54:47  InnoDB: Shutdown completed; log sequence number 0 17143846
+110615  9:54:47 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:54:48  InnoDB: Started; log sequence number 0 17143846
+110615  9:54:48 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:56:00 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:56:00  InnoDB: Starting shutdown...
+110615  9:56:03  InnoDB: Shutdown completed; log sequence number 0 17143846
+110615  9:56:03 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:56:05  InnoDB: Started; log sequence number 0 17143846
+110615  9:56:05 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615  9:58:05 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615  9:58:05  InnoDB: Starting shutdown...
+110615  9:58:07  InnoDB: Shutdown completed; log sequence number 0 17143846
+110615  9:58:07 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615  9:59:18  InnoDB: Started; log sequence number 0 17143846
+110615  9:59:18 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615 10:11:01 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Normal shutdown
+
+110615 10:11:01  InnoDB: Starting shutdown...
+110615 10:11:04  InnoDB: Shutdown completed; log sequence number 0 17155988
+110615 10:11:04 [Note] D:\INSTAN~2\MySql\bin\mysqld.exe: Shutdown complete
+
+110615 10:18:28  InnoDB: Started; log sequence number 0 17155988
+110615 10:18:28 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110615 10:19:49 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+110615 10:19:51 [Warning] D:\INSTAN~1\MySql\bin\mysqld.exe: Forcing close of thread 2  user: 'root'
+
+110615 10:19:51 [Warning] D:\INSTAN~1\MySql\bin\mysqld.exe: Forcing close of thread 1  user: 'root'
+
+110615 10:19:51  InnoDB: Starting shutdown...
+110615 10:19:54  InnoDB: Shutdown completed; log sequence number 0 17156292
+110615 10:19:54 [Note] D:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+

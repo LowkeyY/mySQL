@@ -1,0 +1,419 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+100628 11:33:00  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+100628 11:33:01  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+100628 11:33:01  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+100628 11:33:01  InnoDB: Started; log sequence number 0 0
+100628 11:33:01 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100628 11:33:16 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100628 11:33:16  InnoDB: Starting shutdown...
+100628 11:33:19  InnoDB: Shutdown completed; log sequence number 0 43655
+100628 11:33:19 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100628 11:33:39  InnoDB: Started; log sequence number 0 43655
+100628 11:33:39 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100628 11:33:43 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100628 11:33:43  InnoDB: Starting shutdown...
+100628 11:33:46  InnoDB: Shutdown completed; log sequence number 0 43655
+100628 11:33:46 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100628 11:34:19  InnoDB: Started; log sequence number 0 43655
+100628 11:34:19 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100628 12:02:10 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100628 12:02:10  InnoDB: Starting shutdown...
+100628 12:02:13  InnoDB: Shutdown completed; log sequence number 0 1626684
+100628 12:02:13 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100628 12:03:03  InnoDB: Started; log sequence number 0 1626684
+100628 12:03:03 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100628 12:07:26 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100628 12:07:28 [Warning] C:\INSTAN~1\MySql\bin\mysqld.exe: Forcing close of thread 2  user: 'root'
+
+100628 12:07:28 [Warning] C:\INSTAN~1\MySql\bin\mysqld.exe: Forcing close of thread 1  user: 'root'
+
+100628 12:07:28  InnoDB: Starting shutdown...
+100628 12:07:31  InnoDB: Shutdown completed; log sequence number 0 1628703
+100628 12:07:31 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100628 12:07:32  InnoDB: Started; log sequence number 0 1628703
+100628 12:07:32 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100628 12:09:03 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100628 12:09:03  InnoDB: Starting shutdown...
+100628 12:09:06  InnoDB: Shutdown completed; log sequence number 0 1628713
+100628 12:09:06 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100628 12:09:07  InnoDB: Started; log sequence number 0 1628713
+100628 12:09:07 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100628 16:54:15 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100628 16:58:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100628 16:58:33  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1731372.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1731372
+100628 16:58:34  InnoDB: Started; log sequence number 0 1731372
+100628 16:58:37 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100628 17:25:25 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100628 17:41:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100628 17:41:02  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1732412.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1732412
+100628 17:41:03  InnoDB: Started; log sequence number 0 1732412
+100628 17:41:03 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100628 18:42:29 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100629  8:11:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100629  8:11:55  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2862981.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2862981
+100629  8:11:56  InnoDB: Started; log sequence number 0 2862981
+100629  8:11:56 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100629  8:14:27 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100629  8:14:27  InnoDB: Starting shutdown...
+100629  8:14:30  InnoDB: Shutdown completed; log sequence number 0 2862981
+100629  8:14:30 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100629  8:14:32  InnoDB: Started; log sequence number 0 2862981
+100629  8:14:32 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100714 18:48:07 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100715 10:56:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100715 10:56:25  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5410672.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5410672
+100715 10:56:25  InnoDB: Started; log sequence number 0 5410672
+100715 10:56:25 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100727 10:44:51  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100727 10:44:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5455649.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5455649
+100727 10:44:52  InnoDB: Started; log sequence number 0 5455649
+100727 10:44:52 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100727 10:45:36 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100727 10:45:36  InnoDB: Starting shutdown...
+100727 10:45:38  InnoDB: Shutdown completed; log sequence number 0 5455688
+100727 10:45:38 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100727 10:45:38  InnoDB: Started; log sequence number 0 5455688
+100727 10:45:39 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100727 10:50:10 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100727 10:50:10  InnoDB: Starting shutdown...
+100727 10:50:13  InnoDB: Shutdown completed; log sequence number 0 5455688
+100727 10:50:13 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100727 10:50:17  InnoDB: Started; log sequence number 0 5455688
+100727 10:50:17 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100727 10:53:44 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100727 10:53:44  InnoDB: Starting shutdown...
+100727 10:53:45  InnoDB: Shutdown completed; log sequence number 0 5455688
+100727 10:53:45 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100729 14:27:27  InnoDB: Started; log sequence number 0 5455688
+100729 14:27:27 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100802  8:23:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100802  8:23:42  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5456735.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5456735
+100802  8:23:42  InnoDB: Started; log sequence number 0 5456735
+100802  8:23:42 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100803  9:21:08 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100803  9:21:08  InnoDB: Starting shutdown...
+100803  9:21:10  InnoDB: Shutdown completed; log sequence number 0 5456735
+100803  9:21:10 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100803  9:21:13  InnoDB: Started; log sequence number 0 5456735
+100803  9:21:13 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100803  9:29:28 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100803  9:29:28  InnoDB: Starting shutdown...
+100803  9:29:29  InnoDB: Shutdown completed; log sequence number 0 5456735
+100803  9:29:29 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100803  9:29:33  InnoDB: Started; log sequence number 0 5456735
+100803  9:29:33 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100803  9:39:19 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100803  9:39:19  InnoDB: Starting shutdown...
+100803  9:39:21  InnoDB: Shutdown completed; log sequence number 0 5456735
+100803  9:39:21 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100803  9:39:22  InnoDB: Started; log sequence number 0 5456735
+100803  9:39:22 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 11:05:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100811 11:05:21  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5729715.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5729715
+100811 11:05:21  InnoDB: Started; log sequence number 0 5729715
+100811 11:05:21 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 11:06:47 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 11:06:47  InnoDB: Starting shutdown...
+100811 11:06:49  InnoDB: Shutdown completed; log sequence number 0 5729754
+100811 11:06:49 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100811 11:06:51  InnoDB: Started; log sequence number 0 5729754
+100811 11:06:51 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 11:07:10 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 11:07:10  InnoDB: Starting shutdown...
+100811 11:07:13  InnoDB: Shutdown completed; log sequence number 0 5729754
+100811 11:07:13 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100811 11:07:45  InnoDB: Started; log sequence number 0 5729754
+100811 11:07:45 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 11:08:06 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 11:08:06  InnoDB: Starting shutdown...
+100811 11:08:09  InnoDB: Shutdown completed; log sequence number 0 5729754
+100811 11:08:09 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100811 11:08:27  InnoDB: Started; log sequence number 0 5729754
+100811 11:08:27 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 14:05:24 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 14:05:24  InnoDB: Starting shutdown...
+100811 14:05:26  InnoDB: Shutdown completed; log sequence number 0 5729754
+100811 14:05:26 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100811 14:05:30  InnoDB: Started; log sequence number 0 5729754
+100811 14:05:30 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100811 14:31:19 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+100811 14:31:19  InnoDB: Starting shutdown...
+100811 14:31:22  InnoDB: Shutdown completed; log sequence number 0 5729764
+100811 14:31:22 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+100811 14:32:24  InnoDB: Started; log sequence number 0 5729764
+100811 14:32:26 [Note] C:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131015 10:59:31  InnoDB: Started; log sequence number 0 17156292
+131015 10:59:31 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131015 10:59:32 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+131015 10:59:32  InnoDB: Starting shutdown...
+131015 10:59:35  InnoDB: Shutdown completed; log sequence number 0 17156292
+131015 10:59:35 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+131015 10:59:37  InnoDB: Started; log sequence number 0 17156292
+131015 10:59:37 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131015 11:11:31 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+131015 11:11:33 [Warning] E:\INSTAN~1\MySql\bin\mysqld.exe: Forcing close of thread 2  user: 'root'
+
+131015 11:11:33 [Warning] E:\INSTAN~1\MySql\bin\mysqld.exe: Forcing close of thread 1  user: 'root'
+
+131015 11:11:33  InnoDB: Starting shutdown...
+131015 11:11:35  InnoDB: Shutdown completed; log sequence number 0 17156544
+131015 11:11:35 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+131015 11:12:49  InnoDB: Started; log sequence number 0 17156544
+131015 11:12:49 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131015 11:14:13 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+131015 11:14:13  InnoDB: Starting shutdown...
+131015 11:14:15  InnoDB: Shutdown completed; log sequence number 0 17156544
+131015 11:14:15 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+131015 11:16:43  InnoDB: Started; log sequence number 0 17156544
+131015 11:16:43 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131021  8:29:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131021  8:29:35  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 17214814.
+InnoDB: Doing recovery: scanned up to log sequence number 0 17214814
+131021  8:29:35  InnoDB: Started; log sequence number 0 17214814
+131021  8:29:35 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131021 14:15:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131021 14:15:58  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 17219387.
+InnoDB: Doing recovery: scanned up to log sequence number 0 17219387
+131021 14:15:58  InnoDB: Started; log sequence number 0 17219387
+131021 14:15:58 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131021 17:58:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131021 17:58:06  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 17234966.
+InnoDB: Doing recovery: scanned up to log sequence number 0 17234966
+131021 17:58:06  InnoDB: Started; log sequence number 0 17234966
+131021 17:58:06 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131022 15:31:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131022 15:31:28  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 17239415.
+InnoDB: Doing recovery: scanned up to log sequence number 0 17239415
+131022 15:31:28  InnoDB: Started; log sequence number 0 17239415
+131022 15:31:28 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131026 16:51:54 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+131026 16:51:54  InnoDB: Starting shutdown...
+131026 16:51:56  InnoDB: Shutdown completed; log sequence number 0 17390309
+131026 16:51:56 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+131028  8:27:00  InnoDB: Started; log sequence number 0 17390309
+131028  8:27:01 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131028  8:29:00 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+131028  8:29:00  InnoDB: Starting shutdown...
+131028  8:29:03  InnoDB: Shutdown completed; log sequence number 0 17390309
+131028  8:29:03 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+131028  8:42:37  InnoDB: Started; log sequence number 0 17390309
+131028  8:42:37 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131028 16:48:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131028 16:48:56  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 17390581.
+InnoDB: Doing recovery: scanned up to log sequence number 0 17390581
+131028 16:48:56  InnoDB: Started; log sequence number 0 17390581
+131028 16:48:56 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131029  9:13:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131029  9:13:56  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 17390633.
+InnoDB: Doing recovery: scanned up to log sequence number 0 17390633
+131029  9:13:56  InnoDB: Started; log sequence number 0 17390633
+131029  9:13:56 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131121  9:09:14 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Normal shutdown
+
+131121  9:09:14  InnoDB: Starting shutdown...
+131121  9:09:17  InnoDB: Shutdown completed; log sequence number 0 17547172
+131121  9:09:17 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: Shutdown complete
+
+131121  9:09:19  InnoDB: Started; log sequence number 0 17547172
+131121  9:09:19 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+131227 15:40:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131227 15:40:14  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 19097050.
+InnoDB: Doing recovery: scanned up to log sequence number 0 19097050
+131227 15:40:15  InnoDB: Started; log sequence number 0 19097050
+131227 15:40:15 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+140227 16:30:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140227 16:30:52  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 19998905.
+InnoDB: Doing recovery: scanned up to log sequence number 0 19998905
+140227 16:30:52  InnoDB: Started; log sequence number 0 19998905
+140227 16:30:53 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+140408  9:23:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140408  9:23:29  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 20803433.
+InnoDB: Doing recovery: scanned up to log sequence number 0 20803433
+140408  9:23:29  InnoDB: Started; log sequence number 0 20803433
+140408  9:23:29 [Note] E:\INSTAN~1\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.0.27-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
